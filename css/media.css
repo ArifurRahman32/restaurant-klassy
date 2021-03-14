@@ -1,0 +1,196 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    .px-5 {
+        padding-right: 2rem !important;
+        padding-left: 2rem !important;
+      }  
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-toggler-icon {
+    color: #fb5849;
+    font-size: 20px;
+    height: 18px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-brand {
+    padding: 3px 0px;
+  }
+  .navbar-brand img {
+    width: 90%;
+  }
+  .navbar-toggler {
+    line-height: 0px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    background-color: #fff;
+    width: 124%;
+  }
+  .about-right {
+    padding-left: 0px;
+
+    padding-top: 30px;
+  }
+  .px-5 {
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+  }
+  .card {
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+  .bottom-icon a i {
+    margin-right: 6px;
+  }
+  #bottom {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+.back-top i {
+    width: 50px;
+    height: 50px;
+
+    line-height: 50px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .navbar-toggler-icon {
+    color: #fb5849;
+    font-size: 20px;
+    height: 18px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-brand {
+    padding: 3px 0px;
+  }
+  .navbar-brand img {
+    width: 90%;
+  }
+  .navbar-toggler {
+    line-height: 0px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    background-color: #fff;
+    width: 124%;
+  }
+  .about-right {
+    padding-left: 0px;
+
+    padding-top: 24px;
+  }
+  .card {
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+  .px-5 {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+  }
+  .about-top h2 {
+    font-size: 28px;
+  }
+  .bottom-icon a i {
+    margin-right: 13px;
+  }
+  .coparight p {
+    margin-top: 23px;
+
+    text-align: center;
+  }
+  #bottom {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .back-top i {
+    width: 50px;
+    height: 50px;
+
+    line-height: 50px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .navbar-toggler-icon {
+    color: #fb5849;
+    font-size: 20px;
+    height: 18px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-brand {
+    padding: 3px 0px;
+  }
+  .navbar-brand img {
+    width: 80%;
+  }
+  .navbar-toggler {
+    line-height: 0px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    background-color: #fff;
+    width: 104%;
+  }
+  .left {
+    padding-top: 145px;
+    padding-bottom: 145px;
+  }
+  .slider img {
+    height: 350px;
+  }
+
+  .about-right {
+    padding-left: 0px;
+    margin-top: 30px;
+  }
+  .about-top h2 {
+    font-size: 25px;
+  }
+  .service-item {
+    margin-top: 154px;
+  }
+  .card {
+    margin-left: 0px;
+    margin-top: 19px;
+  }
+  .px-5 {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+  }
+  .tabs-item-details h4 {
+    padding-top: 111px;
+
+    margin-right: 138px;
+  }
+  .mx-3 {
+    margin-right: 0rem !important;
+    margin-left: 0rem !important;
+  }
+  #bottom {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .coparight p {
+    margin-top: 28px;
+    text-align: center;
+  }
+  .bottom-icon a i {
+    width: 33px;
+    height: 33px;
+
+    line-height: 33px;
+    font-size: 15px;
+    margin-right: 1px;
+    margin-top: 11px;
+  }
+  .back-top i {
+    width: 40px;
+    height: 40px;
+
+    line-height: 40px;
+    font-size: 15px;
+  }
+}
