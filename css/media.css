@@ -53,6 +53,9 @@
 
     line-height: 50px;
   }
+ .bot{
+    margin-top: 30px;
+  }
 }
 @media (min-width: 576px) and (max-width: 767px) {
   .navbar-toggler-icon {
@@ -109,6 +112,9 @@
     height: 50px;
 
     line-height: 50px;
+  }
+ .ptop{
+    margin-top: 30px;
   }
 }
 
@@ -192,5 +198,8 @@
 
     line-height: 40px;
     font-size: 15px;
+  }
+ .ptop{
+    margin-top: 30px;
   }
 }
